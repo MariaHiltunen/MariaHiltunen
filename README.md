@@ -1,6 +1,6 @@
 ### ABOUT<br>
 ------
-I am self-leading and determined person, and I believe in continuous learning. I am the person, who always asks “how can we do this easier/better/faster”. <br>
+I am self-leading and determined person, and I believe in continuous learning. I am the person, who always asks “how can we do this easier/better/faster”. Motivated data engineer with 4+ years of experience in technicaldocumentation and development, now transitioning into IT field. Analyticaland problem-solving person bundled with good communication skills.I have hands-on experience in database queries and data pipelines.Excited to leverage technical expertise and develop professionally in the role of a data engineer, developer or analyst. <br>
 <br>
 For my background I am a mechanical engineer (2019), and worked on that field until spring 2024. Couple of years ago I got interested in data engineering, analytics and programming. I was determined to learn the basics I 
 needed to start my studies – and so did I.<br>
